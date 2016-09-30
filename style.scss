@@ -22,9 +22,15 @@ body {
   font: 18px/1.4 $helvetica;
   color: $blue;
 
-table, th, td {
-   border: 1px solid black;
+table {
+    border-collapse: collapse;
 }
+
+table, th, td {
+    border: 1px solid black;
+}
+Try it Yourself »
+
 
 .container {
   margin: 0 auto;
