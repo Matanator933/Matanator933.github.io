@@ -19,7 +19,7 @@ html {
 
 body {
 	background: #orange;
-  font: 18px/1.4 $helvetica;
+  font: 18px/1.4 $arial;
   color: $blue;
 }table, th, td {
    border: 1px solid #990000;
@@ -132,7 +132,7 @@ img {
 
 // Specify the color of the selection
 ::-moz-selection {
-  color: $black;
+  color: $orange;
   background-image: url("http://wallpaperwarrior.com/wp-content/uploads/2016/05/Beautiful-Wallpapers-10.jpg");
 }
 
